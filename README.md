@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shakshijha06/LeetCelebrate/tree/master/0169-majority-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shakshijha06/LeetCelebrate/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shakshijha06/LeetCelebrate/tree/master/0169-majority-element) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shakshijha06/LeetCelebrate/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shakshijha06/LeetCelebrate/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shakshijha06/LeetCelebrate/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
