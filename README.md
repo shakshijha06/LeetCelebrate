@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/shakshijha06/LeetCelebrate/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shakshijha06/LeetCelebrate/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/shakshijha06/LeetCelebrate/tree/master/1189-maximum-number-of-balloons) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shakshijha06/LeetCelebrate/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
