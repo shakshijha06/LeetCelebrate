@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/shakshijha06/LeetCelebrate/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/shakshijha06/LeetCelebrate/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/shakshijha06/LeetCelebrate/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shakshijha06/LeetCelebrate/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
