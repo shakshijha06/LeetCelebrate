@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shakshijha06/LeetCelebrate/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shakshijha06/LeetCelebrate/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shakshijha06/LeetCelebrate/tree/master/0125-valid-palindrome) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shakshijha06/LeetCelebrate/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shakshijha06/LeetCelebrate/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shakshijha06/LeetCelebrate/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
