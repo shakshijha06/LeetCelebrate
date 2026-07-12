@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/shakshijha06/LeetCelebrate/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/shakshijha06/LeetCelebrate/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/shakshijha06/LeetCelebrate/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakshijha06/LeetCelebrate/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -106,8 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shakshijha06/LeetCelebrate/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/shakshijha06/LeetCelebrate/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shakshijha06/LeetCelebrate/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shakshijha06/LeetCelebrate/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
