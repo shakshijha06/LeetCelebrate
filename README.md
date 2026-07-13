@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/shakshijha06/LeetCelebrate/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/shakshijha06/LeetCelebrate/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shakshijha06/LeetCelebrate/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/shakshijha06/LeetCelebrate/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shakshijha06/LeetCelebrate/tree/master/0074-search-a-2d-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shakshijha06/LeetCelebrate/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
