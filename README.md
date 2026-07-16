@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shakshijha06/LeetCelebrate/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/shakshijha06/LeetCelebrate/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shakshijha06/LeetCelebrate/tree/master/0051-n-queens) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
