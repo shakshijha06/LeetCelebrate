@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shakshijha06/LeetCelebrate/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shakshijha06/LeetCelebrate/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shakshijha06/LeetCelebrate/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shakshijha06/LeetCelebrate/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shakshijha06/LeetCelebrate/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
