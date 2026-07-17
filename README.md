@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shakshijha06/LeetCelebrate/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/shakshijha06/LeetCelebrate/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shakshijha06/LeetCelebrate/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shakshijha06/LeetCelebrate/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shakshijha06/LeetCelebrate/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0219-contains-duplicate-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shakshijha06/LeetCelebrate/tree/master/1189-maximum-number-of-balloons) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shakshijha06/LeetCelebrate/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -129,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
