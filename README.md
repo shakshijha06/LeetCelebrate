@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shakshijha06/LeetCelebrate/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shakshijha06/LeetCelebrate/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shakshijha06/LeetCelebrate/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/shakshijha06/LeetCelebrate/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shakshijha06/LeetCelebrate/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/shakshijha06/LeetCelebrate/tree/master/1768-merge-strings-alternately) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shakshijha06/LeetCelebrate/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shakshijha06/LeetCelebrate/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
