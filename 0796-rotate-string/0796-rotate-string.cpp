@@ -4,6 +4,6 @@ public:
         if (s.length()!=goal.length()){
             return false;
         }
-        return (s+s).contains(goal);
+        return (s+s).find(goal)!=string::npos;
     }
 };
