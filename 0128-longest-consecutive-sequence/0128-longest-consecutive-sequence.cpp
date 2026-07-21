@@ -6,17 +6,17 @@ public:
         int longest = 0;
 
         for (int num : st) {
-            // Start of a sequence
+            // Check if it is the start of a sequence
             if (st.find(num - 1) == st.end()) {
-                int current = num;
-                int length = 1;
+                int currentNum = num;
+                int count = 1;
 
-                while (st.find(current + 1) != st.end()) {
-                    current++;
-                    length++;
+                while (st.find(currentNum + 1) != st.end()) {
+                    currentNum++;
+                    count++;
                 }
 
-                longest = max(longest, length);
+                longest = max(longest, count);
             }
         }
 
