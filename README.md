@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakshijha06/LeetCelebrate/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/shakshijha06/LeetCelebrate/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shakshijha06/LeetCelebrate/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/shakshijha06/LeetCelebrate/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0189-rotate-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shakshijha06/LeetCelebrate/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/shakshijha06/LeetCelebrate/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shakshijha06/LeetCelebrate/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shakshijha06/LeetCelebrate/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0219-contains-duplicate-ii) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0268-missing-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shakshijha06/LeetCelebrate/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
