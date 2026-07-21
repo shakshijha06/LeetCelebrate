@@ -4,14 +4,12 @@ class Solution:
         longest = 0
 
         for num in num_set:
-            if num - 1 not in num_set:
-                current = num
-                length = 1
+            if num - 1 not in num_set:  
+                curr = num
 
-                while current + 1 in num_set:
-                    current += 1
-                    length += 1
+                while curr in num_set:
+                    curr += 1
 
-                longest = max(longest, length)
+                longest = max(longest, curr - num)
 
         return longest
