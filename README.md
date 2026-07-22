@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/shakshijha06/LeetCelebrate/tree/master/1189-maximum-number-of-balloons) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shakshijha06/LeetCelebrate/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shakshijha06/LeetCelebrate/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shakshijha06/LeetCelebrate/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/shakshijha06/LeetCelebrate/tree/master/1189-maximum-number-of-balloons) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shakshijha06/LeetCelebrate/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shakshijha06/LeetCelebrate/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/shakshijha06/LeetCelebrate/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shakshijha06/LeetCelebrate/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/shakshijha06/LeetCelebrate/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shakshijha06/LeetCelebrate/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shakshijha06/LeetCelebrate/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shakshijha06/LeetCelebrate/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
