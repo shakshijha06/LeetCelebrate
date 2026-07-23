@@ -6,6 +6,7 @@ class Solution:
         for i, num in enumerate(nums):  
             complement = target - num  
             if complement in seen:      
-                return [seen[complement], i] 
+                return [i,seen[complement], ] 
             
-            seen[num] = i  
+            seen[num] = i
+        return[]  
