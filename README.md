@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shakshijha06/LeetCelebrate/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shakshijha06/LeetCelebrate/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakshijha06/LeetCelebrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shakshijha06/LeetCelebrate/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shakshijha06/LeetCelebrate/tree/master/0217-contains-duplicate) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shakshijha06/LeetCelebrate/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shakshijha06/LeetCelebrate/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakshijha06/LeetCelebrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/shakshijha06/LeetCelebrate/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shakshijha06/LeetCelebrate/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakshijha06/LeetCelebrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
