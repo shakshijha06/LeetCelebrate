@@ -1,11 +1,18 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
+        unique=1
+        officer=0
+        CM=1
+        while(CM<len(nums)):
+            if (nums[CM]==nums[CM-1]):
+                CM+=1
+            else:
+                
+                officer+=1
+                nums[officer]=nums[CM]
+                unique+=1
+                CM+=1
+        return unique
 
-        k = 1
 
-        for i in range(1, len(nums)):
-            if nums[i] != nums[k-1]:
-                nums[k] = nums[i]
-                k += 1
-
-        return k
+        
