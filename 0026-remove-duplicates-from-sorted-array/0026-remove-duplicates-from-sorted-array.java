@@ -4,11 +4,12 @@ class Solution {
         int officer = 0;
         for(int CM=1;CM<nums.length;CM++)
         {
-        if (nums[CM]!=nums[CM-1])
-        {officer++;
-        nums[officer]=nums[CM];
+            if (nums[CM]!=nums[CM-1])
+            {
+                officer++;
+                nums[officer]=nums[CM];
+            }
         }
-        }
-return officer+1;
+        return officer+1;
     }
 }
