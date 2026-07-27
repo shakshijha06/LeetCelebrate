@@ -1,32 +1,39 @@
 class Solution:
-    def threeSum(self, nums: list[int]) -> list[list[int]]:
+    def threeSum(self, nums):
         nums.sort()
-        result = []
-
         n = len(nums)
+        result = []
+        append = result.append
 
         for i in range(n - 2):
-            # Skip duplicate first elements
+
+            if nums[i] > 0:
+                break
+
             if i > 0 and nums[i] == nums[i - 1]:
+                continue
+
+            if nums[i] + nums[i + 1] + nums[i + 2] > 0:
+                break
+
+            if nums[i] + nums[n - 2] + nums[n - 1] < 0:
                 continue
 
             left = i + 1
             right = n - 1
+            first = nums[i]
 
             while left < right:
-                total = nums[i] + nums[left] + nums[right]
+                total = first + nums[left] + nums[right]
 
                 if total == 0:
-                    result.append([nums[i], nums[left], nums[right]])
-
+                    append([first, nums[left], nums[right]])
                     left += 1
                     right -= 1
 
-                    # Skip duplicate second elements
                     while left < right and nums[left] == nums[left - 1]:
                         left += 1
 
-                    # Skip duplicate third elements
                     while left < right and nums[right] == nums[right + 1]:
                         right -= 1
 
