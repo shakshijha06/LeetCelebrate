@@ -1,44 +1,39 @@
 class Solution:
     def threeSum(self, nums):
-        nums.sort()
+        nums.sort()#sort the array
         n = len(nums)
         result = []
-        append = result.append
+        
 
-        for i in range(n - 2):
+        for i in range(n - 2):#fixing one element 
 
-            if nums[i] > 0:
-                break
-
-            if i > 0 and nums[i] == nums[i - 1]:
+            if i > 0 and nums[i] == nums[i - 1]:#skipping duplicate element
                 continue
-
-            if nums[i] + nums[i + 1] + nums[i + 2] > 0:
-                break
-
-            if nums[i] + nums[n - 2] + nums[n - 1] < 0:
-                continue
+          
 
             left = i + 1
             right = n - 1
-            first = nums[i]
-
+#finifng two elemnt whose sum with num[i] is 0
             while left < right:
-                total = first + nums[left] + nums[right]
+                total = nums[i] + nums[left] + nums[right]
+                
 
-                if total == 0:
-                    append([first, nums[left], nums[right]])
+                if total == 0:   #Found a valid triplet
+
+                    result.append([nums[i], nums[left], nums[right]])
                     left += 1
                     right -= 1
-
+                    # Skip duplicate values on the left
                     while left < right and nums[left] == nums[left - 1]:
                         left += 1
+                    # Skip duplicate values on the right
 
                     while left < right and nums[right] == nums[right + 1]:
                         right -= 1
-
+                # Sum is too small, increase it
                 elif total < 0:
                     left += 1
+                  # Sum is too large, decrease it
                 else:
                     right -= 1
 
