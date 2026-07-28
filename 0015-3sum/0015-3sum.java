@@ -1,40 +1,44 @@
-import java.util.*;
-class Solution{
-    public List<List<Integer>>threeSum(int[] num) {
-        Arrays.sort(num);
-        int n=num.length;
-        List<List<Integer>> result= new ArrayList<>();
-        for (int i= 0;i<n-2;i++)
-        {
-            if(num[i]>0)
-            break;
-            if (i>0 && num[i]==num[i-1])
-            continue;
-            if(num[i]+num[i+1]+num[i+2]>0)
-            break;
-            if(num[i]+num[n-2]+num[n-1]<0)
-            continue;
-            int left=i+1;
-            int right=n-1;
-            int first=num[i];
-            while(left<right)
-            {
-                int total= first+num[left]+num[right];
-                if(total==0)
-                {
-                    result.add(Arrays.asList(first,num[left],num[right]));
-                    left++;
-                    right--;
-                    while(left<right && num[left]==num[left-1]){
-                    left++;}
-                    while(left<right && num[right]==num[right+1]){
-                    right--;}
+class Solution {
+    public List<List<Integer>> threeSum(int[] nums) {
 
+        Arrays.sort(nums);
+        List<List<Integer>> ans = new ArrayList<>();
+
+        for (int k = 0; k < nums.length - 2; k++) {
+
+            if (nums[k] > 0)
+                break;
+
+            if (k > 0 && nums[k] == nums[k - 1])
+                continue;
+
+            int i = k + 1;
+            int j = nums.length - 1;
+
+            while (i < j) {
+
+                int sum = nums[k] + nums[i] + nums[j];
+
+                if (sum > 0) {
+                    j--;
+                } else if (sum < 0) {
+                    i++;
+                } else {
+
+                    ans.add(Arrays.asList(nums[k], nums[i], nums[j]));
+
+                    i++;
+                    j--;
+
+                    while (i < j && nums[i] == nums[i - 1])
+                        i++;
+
+                    while (i < j && nums[j] == nums[j + 1])
+                        j--;
                 }
-                else if(total<0){
-                left++;}
-                else { right--;}
             }
-        } return result;
+        }
+
+        return ans;
     }
 }
