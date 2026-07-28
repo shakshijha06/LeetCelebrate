@@ -1,40 +1,32 @@
 class Solution:
-    def threeSum(self, nums):
-        nums.sort()#sort the array
-        n = len(nums)
-        result = []
-        
+    def threeSum(self, nums: list[int]) -> list[list[int]]:
+        nums.sort()
+        ans = []
 
-        for i in range(n - 2):#fixing one element 
+        for k in range(len(nums) - 2):
+            if nums[k] > 0:
+                break
 
-            if i > 0 and nums[i] == nums[i - 1]:#skipping duplicate element
+            if k > 0 and nums[k] == nums[k - 1]:
                 continue
-          
 
-            left = i + 1
-            right = n - 1
-#finifng two elemnt whose sum with num[i] is 0
-            while left < right:
-                total = nums[i] + nums[left] + nums[right]
-                
+            i, j = k + 1, len(nums) - 1
 
-                if total == 0:   #Found a valid triplet
+            while i < j:
+                s = nums[k] + nums[i] + nums[j]
 
-                    result.append([nums[i], nums[left], nums[right]])
-                    left += 1
-                    right -= 1
-                    # Skip duplicate values on the left
-                    while left < right and nums[left] == nums[left - 1]:
-                        left += 1
-                    # Skip duplicate values on the right
-
-                    while left < right and nums[right] == nums[right + 1]:
-                        right -= 1
-                # Sum is too small, increase it
-                elif total < 0:
-                    left += 1
-                  # Sum is too large, decrease it
+                if s < 0:
+                    i += 1
+                elif s > 0:
+                    j -= 1
                 else:
-                    right -= 1
+                    ans.append([nums[k], nums[i], nums[j]])
+                    i += 1
+                    j -= 1
 
-        return result
+                    while i < j and nums[i] == nums[i - 1]:
+                        i += 1
+                    while i < j and nums[j] == nums[j + 1]:
+                        j -= 1
+
+        return ans
