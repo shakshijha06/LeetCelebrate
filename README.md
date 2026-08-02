@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0268-missing-number) |
 | [0321-create-maximum-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0321-create-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shakshijha06/LeetCelebrate/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shakshijha06/LeetCelebrate/tree/master/0238-product-of-array-except-self) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Linked List
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shakshijha06/LeetCelebrate/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shakshijha06/LeetCelebrate/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0268-missing-number) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shakshijha06/LeetCelebrate/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
 |  |
@@ -184,4 +188,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0321-create-maximum-number) |
+## Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
