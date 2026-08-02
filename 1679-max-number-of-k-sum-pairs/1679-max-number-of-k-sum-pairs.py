@@ -1,15 +1,15 @@
-from collections import defaultdict
+from collections import Counter
 
 class Solution:
     def maxOperations(self, nums: List[int], k: int) -> int:
-        freq = defaultdict(int)
+        cnt = Counter()
         ans = 0
 
-        for num in nums:
-            if freq[k - num] > 0:
+        for x in nums:
+            if cnt[k - x]:
                 ans += 1
-                freq[k - num] -= 1
+                cnt[k - x] -= 1
             else:
-                freq[num] += 1
+                cnt[x] += 1
 
         return ans
