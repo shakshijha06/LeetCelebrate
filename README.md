@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/1140-stone-game-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shakshijha06/LeetCelebrate/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/shakshijha06/LeetCelebrate/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0268-missing-number) |
+| [1140-stone-game-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/1140-stone-game-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shakshijha06/LeetCelebrate/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shakshijha06/LeetCelebrate/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakshijha06/LeetCelebrate/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1140-stone-game-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/1140-stone-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shakshijha06/LeetCelebrate/tree/master/0238-product-of-array-except-self) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1140-stone-game-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/1140-stone-game-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -203,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
