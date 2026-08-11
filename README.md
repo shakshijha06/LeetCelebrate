@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shakshijha06/LeetCelebrate/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shakshijha06/LeetCelebrate/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/shakshijha06/LeetCelebrate/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0268-missing-number) |
 | [0321-create-maximum-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0321-create-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/shakshijha06/LeetCelebrate/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/shakshijha06/LeetCelebrate/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shakshijha06/LeetCelebrate/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -198,14 +200,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shakshijha06/LeetCelebrate/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shakshijha06/LeetCelebrate/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/shakshijha06/LeetCelebrate/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shakshijha06/LeetCelebrate/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Minimax
 |  |
@@ -219,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/1140-stone-game-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shakshijha06/LeetCelebrate/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
