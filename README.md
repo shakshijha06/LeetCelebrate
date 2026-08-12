@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shakshijha06/LeetCelebrate/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shakshijha06/LeetCelebrate/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shakshijha06/LeetCelebrate/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shakshijha06/LeetCelebrate/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shakshijha06/LeetCelebrate/tree/master/0055-jump-game) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shakshijha06/LeetCelebrate/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shakshijha06/LeetCelebrate/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/shakshijha06/LeetCelebrate/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/shakshijha06/LeetCelebrate/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/shakshijha06/LeetCelebrate/tree/master/0125-valid-palindrome) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shakshijha06/LeetCelebrate/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/shakshijha06/LeetCelebrate/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakshijha06/LeetCelebrate/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shakshijha06/LeetCelebrate/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shakshijha06/LeetCelebrate/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0321-create-maximum-number) |
 ## Binary Search
 |  |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shakshijha06/LeetCelebrate/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/shakshijha06/LeetCelebrate/tree/master/0321-create-maximum-number) |
 ## Queue
 |  |
