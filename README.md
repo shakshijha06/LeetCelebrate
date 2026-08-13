@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/shakshijha06/LeetCelebrate/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/shakshijha06/LeetCelebrate/tree/master/1140-stone-game-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/shakshijha06/LeetCelebrate/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shakshijha06/LeetCelebrate/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/shakshijha06/LeetCelebrate/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/shakshijha06/LeetCelebrate/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shakshijha06/LeetCelebrate/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shakshijha06/LeetCelebrate/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shakshijha06/LeetCelebrate/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -233,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shakshijha06/LeetCelebrate/tree/master/0239-sliding-window-maximum) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shakshijha06/LeetCelebrate/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/shakshijha06/LeetCelebrate/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
